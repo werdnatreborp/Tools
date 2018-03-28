@@ -1,0 +1,8 @@
+MakeCAB Report: Wed Mar 14 08:29:03 2018
+
+Total files:              2
+Bytes before:        34,313
+Bytes after:         18,124
+After/Before:            52.82% compression
+Time:                     0.69 seconds ( 0 hr  0 min  0.69 sec)
+Throughput:              48.70 Kb/second
