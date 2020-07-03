@@ -1,0 +1,9 @@
+ECHO OFF
+DIR /O:D %LOCALAPPDATA%\MALWAREBYTES*.LOG
+PAUSE
+DIR /O:D %TEMP%\MALWAREBYTES*.LOG
+PAUSE
+DIR /O:D "%ProgramData%\Malwarebytes Endpoint Agent\logs"
+PAUSE
+
+

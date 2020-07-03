@@ -1,3 +1,0 @@
-MAKECAB /V3 /F directive.dtf /D COMPRESS=ON
-
-PAUSE
